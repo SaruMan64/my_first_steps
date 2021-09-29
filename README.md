@@ -1,6 +1,6 @@
 Resposta 1:
 
-[https://github.com/SaruMan64/my\_first\_steps]((https://github.com/SaruMan64/my_first_steps)
+https://github.com/SaruMan64/my\_first\_steps
 
 Resposta 2:
 
